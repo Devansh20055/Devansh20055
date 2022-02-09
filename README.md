@@ -1,16 +1,19 @@
-### Hi there 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=HEY+BUDDY+WELCOME+MY+PROFILE!;READ+BELOW+TO+KNOW+MORE)
+<br><p align="center"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Devansh20055}/count.svg" /></p> 
 
-<!--
-**Devansh20055/Devansh20055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HI BUDDY 👻<BR>
+<I><B><U>MY NAME IS :- DEVANSH </I><B/></U> <BR>
+<I><B>I AM ALSO A STUDENT OF CLASS 11TH 🙂😅 <BR>
+🔰 I AM ASLO HAVING SOME A CHANNEL ON TELEGRAM :- <a href='https://t.me/team_silent_king/52'> @TEAM_SILENT_KING 🔰 </a> <BR>
+🔆YOU CAN CONTACT ME ON TELEGRAM TOO :-  <a href= 'https://t.me/ITS_NOT_ROMEO' > @ITS_NOT_ROMEO 🔆 </a> <BR>
+🔱DON'T FORGET TO STAR MY REPO BEFOR USING 🔱  </I><B/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Status 📈
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Devansh20055/&title=Profile%20Views)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Devansh20055&show_icons=true&title_color=733&icon_color=393&include_all_commits=true&theme=onedark&cache_seconds=86400)
+
