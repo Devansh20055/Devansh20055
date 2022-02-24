@@ -7,7 +7,7 @@
 <I><B>I AM ALSO A STUDENT OF CLASS 11TH 🙂😅 <BR>
 🔰 I AM THE OWNER AND FOUNDER OF  :- <a href='https://t.me/team_silent_king/52'> @TEAM_SILENT_KING 🔰 </a> <BR>
 🔆YOU CAN CONTACT ME ON TELEGRAM TOO :-  <a href= 'https://t.me/ITS_NOT_ROMEO' > @ITS_NOT_ROMEO 🔆 </a> <BR>
-🔱DON'T FORGET TO STAR MY REPO BEFOR USING 🔱  </I><B/>
+🔱DON'T FORGET TO STAR MY REPO BEFORE USING 🔱  </I><B/>
   </P>
 
 
