@@ -17,3 +17,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Devansh20055&show_icons=true&title_color=733&icon_color=393&include_all_commits=true&theme=onedark&cache_seconds=86400)
 
+
+
+<button onclick="location.href='http://www.example.com'" type="button">
+         www.example.com</button>
