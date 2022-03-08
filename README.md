@@ -17,3 +17,4 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Devansh20055&show_icons=true&title_color=733&icon_color=393&include_all_commits=true&theme=onedark&cache_seconds=86400)
 
+<a href="https://google.com" class="button">Go to Google</a>
